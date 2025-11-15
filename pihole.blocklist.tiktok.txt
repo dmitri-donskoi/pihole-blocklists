@@ -1,0 +1,43 @@
+# Title: Tiktok List
+# Expires:
+# Homepage: pihole.blocklist.tiktok.txt
+# Help:
+# License: https://unlicense.org
+# Total number of network filters:
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# -------------------------------------[INFO]---------------------------------------
+#
+# Tiktok list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 p77-sign-sg.tiktokcdn.com
+0.0.0.0 p16-sign-sg.tiktokcdn.com
+0.0.0.0 p77-sg.tiktokcdn.com
+0.0.0.0 p16-comment-sign-useastred.tiktokcdn-eu.com
+0.0.0.0 p19-common-sign-useastred.tiktokcdn-eu.com
+0.0.0.0 v45.clv.byteoversea.net
+0.0.0.0 v16m.tiktokcdn-eu.com
+0.0.0.0 lf-main-gecko-source.tiktokcdn.com.ttdns2.com
+0.0.0.0 direct.quic-core-proxy-gcpsg-v3.gcpsg.byteglb.com
+0.0.0.0 api22-core.tiktokv.com
+0.0.0.0 api16-core.tiktokv.com
+0.0.0.0 aggr32-normal.tiktokv.eu
+0.0.0.0 sf16-ies-music-va.tiktokcdn.com
+0.0.0.0 vm.tiktok.com
+0.0.0.0 mssdk16-normal-no1a.tiktokv.eu
+0.0.0.0 p16-sign-va.tiktokcdn.com
+0.0.0.0 v45.tiktokcdn-eu.com
+0.0.0.0 p16-sign.tiktokcdn-us.com
+0.0.0.0 p77-sg.tiktokcdn.com
+0.0.0.0 api32.clv.byteoversea.net
+0.0.0.0 api16-normal-no1a.tiktokv.eu
+0.0.0.0 pull-f5-tt04.tiktokcdn-eu.com.c.bytefcdn-ttpeu.com
+0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-f5-sg01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-w5-va01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-w5-sg01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-q5-va01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-q5-sg01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-flv-f77-tt01-tt03.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-f5-tt01.fcdn.eu.tiktokcdn.com
+0.0.0.0 pull-f5-sg01.fcdn.eu.tiktokcdn.com
