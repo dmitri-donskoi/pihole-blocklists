@@ -33,6 +33,7 @@
 0.0.0.0 voice.roblox.com
 0.0.0.0 games.roblox.com
 0.0.0.0 presence.roblox.com
+0.0.0.0 client-telemetry.roblox.com
 0.0.0.0 fts.rbxcdn.com
 0.0.0.0 tr.rbxcdn.com
 0.0.0.0 deltascriptbloxfruit.com
