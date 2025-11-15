@@ -1,0 +1,31 @@
+# Title: Roblox List
+# Expires:
+# Homepage: pihole.blocklist.roblox.txt
+# Help:
+# License: https://unlicense.org
+# Total number of network filters:
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# -------------------------------------[INFO]---------------------------------------
+#
+# Roblox list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 apis.roblox.com
+0.0.0.0 ncs.roblox.com
+0.0.0.0 www.roblox.com
+0.0.0.0 ephemeralcounters.api.roblox.com
+0.0.0.0 clientsettingscdn.roblox.com
+0.0.0.0 tracing.roblox.com
+0.0.0.0 assetdelivery.roblox.com
+0.0.0.0 friends.roblox.com
+0.0.0.0 economy.roblox.com
+0.0.0.0 privatemessages.roblox.com
+0.0.0.0 clientsettings.roblox.com
+0.0.0.0 notifications.roblox.com
+0.0.0.0 users.roblox.com
+0.0.0.0 locale.roblox.com
+0.0.0.0 accountsettings.roblox.com
+0.0.0.0 thumbnails.roblox.com
+0.0.0.0 fts.rbxcdn.com
+0.0.0.0 avatar.roblox.com
