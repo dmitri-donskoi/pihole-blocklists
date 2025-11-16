@@ -1,0 +1,22 @@
+# Title: Instagram List
+# Expires:
+# Homepage: pihole.blocklist.instagram.txt
+# Help:
+# License: https://unlicense.org
+# Total number of network filters:
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# -------------------------------------[INFO]---------------------------------------
+#
+# instagram list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 i.instagram.com
+0.0.0.0 scontent-fallback.cdninstagram.com
+0.0.0.0 instagram.c10r.instagram.com
+0.0.0.0 scontent-muc2-1.cdninstagram.com
+0.0.0.0 scontent.cdninstagram.com
+0.0.0.0 graph-fallback.instagram.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 test-gateway.instagram.com
+0.0.0.0 i-fallback.instagram.com
+0.0.0.0 scontent-atl3-1.cdninstagram.com
