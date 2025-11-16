@@ -1,0 +1,20 @@
+# Title: Steam List
+# Expires:
+# Homepage: pihole.blocklist.steam.txt
+# Help:
+# License: https://unlicense.org
+# Total number of network filters:
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# -------------------------------------[INFO]---------------------------------------
+#
+# Steam list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 p2p-vie1.discovery.steamserver.net
+0.0.0.0 steamcloud-frf.s3.dualstack.eu-central-1.amazonaws.com
+0.0.0.0 api.steampowered.com
+0.0.0.0 lancache.steamcontent.com
+0.0.0.0 clan.steamstatic.com
+0.0.0.0 shared.steamstatic.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 cache2-fra2.steamcontent.com
