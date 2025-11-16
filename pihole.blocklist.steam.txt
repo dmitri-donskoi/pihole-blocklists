@@ -37,5 +37,11 @@
 0.0.0.0 steamcloudams2.blob.core.windows.net
 0.0.0.0 steamcloud-dub.s3.dualstack.eu-west-1.amazonaws.com
 0.0.0.0 steamcloud-eu-ams.storage.googleapis.com
-
-
+0.0.0.0 client-update.steamstatic.com
+0.0.0.0 community.steamstatic.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 ext1-par1.steamserver.net
+0.0.0.0 cmp1-sto1.steamserver.net
+0.0.0.0 cmp2-sto1.steamserver.net
+0.0.0.0 cmp2-mad1.steamserver.net
+0.0.0.0 cmp1-fra2.steamserver.net
