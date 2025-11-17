@@ -45,3 +45,11 @@
 0.0.0.0 cmp2-sto1.steamserver.net
 0.0.0.0 cmp2-mad1.steamserver.net
 0.0.0.0 cmp1-fra2.steamserver.net
+0.0.0.0 cmp1-fra1.steamserver.net
+0.0.0.0 cmp1-lhr1.steamserver.net
+0.0.0.0 cmp2-vie1.steamserver.net
+0.0.0.0 cmp2-iad1.steamserver.net
+0.0.0.0 client-update.fastly.steamstatic.com
+0.0.0.0 client-update.akamai.steamstatic.com
+0.0.0.0 cmp2-sto2.steamserver.net
+0.0.0.0 cmp2-fra2.steamserver.net
