@@ -1,0 +1,24 @@
+# Title: Discord List
+# Expires:
+# Homepage: pihole.blocklist.discord.txt
+# Help:
+# License: https://unlicense.org
+# Total number of network filters:
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# -------------------------------------[INFO]---------------------------------------
+#
+# Discord list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 discord.gg
+0.0.0.0 discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 discord.media
+0.0.0.0 discordapp.net
+0.0.0.0 discordcdn.com
+0.0.0.0 discord.dev
+0.0.0.0 discord.new
+0.0.0.0 discord.gift
+0.0.0.0 discordstatus.com
+0.0.0.0 dis.gd
+0.0.0.0 discord.co
